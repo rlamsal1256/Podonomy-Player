@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="96dp"
+    android:orientation="horizontal">
+
+
+        <com.nhaarman.listviewanimations.itemmanipulation.dragdrop.GripView
+            android:id="@+id/download_list_row_draganddrop_touchview"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:color="@android:color/darker_gray"
+            android:paddingBottom="4dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="4dp" />
+
+
+
+    <ImageButton
+        android:id="@+id/episodeImageButton"
+        android:layout_width="69dp"
+        android:layout_height="69dp"
+        android:layout_marginTop="16dp"
+        android:src="?ic_fingerprint" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txtvTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            android:ellipsize="end"
+            android:lines="1"
+            android:textSize="16sp"
+            tools:text="Download item title" />
+
+        <ProgressBar
+            android:id="@+id/progress"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="16dp"
+            android:layout_marginBottom="4dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginTop="4dp"
+            tools:background="@android:color/holo_blue_light" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp">
+
+            <TextView
+                android:id="@+id/txtvDownloaded"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:ellipsize="end"
+                android:lines="1"
+                android:textSize="14sp"
+                tools:text="21 MB" />
+
+            <TextView
+                android:id="@+id/txtvToDownload"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/txtvDownloaded"
+                android:layout_toRightOf="@id/txtvDownloaded"
+                android:ellipsize="end"
+                android:lines="1"
+                android:textSize="14sp"
+                tools:text=" / 42 MB" />
+
+            <TextView
+                android:id="@+id/txtvPercent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:ellipsize="end"
+                android:lines="1"
+                android:textSize="14sp"
+                tools:text="50%" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <com.podonomy.podonomyplayer.ui.downloads.DownloadCheckbox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:id="@+id/checkbox_downloading_episode"/>
+
+
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

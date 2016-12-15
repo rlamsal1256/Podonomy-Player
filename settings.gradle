@@ -1,0 +1,1 @@
+include ':app', ':logback-android-1.1.1-4', ':slf4j-api-1.7.6', ':gson-2.6.2'

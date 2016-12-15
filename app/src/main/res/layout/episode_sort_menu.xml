@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?><!-- The nave menu is a dialog that popups at the bottom left when pressing the nav
+         button in the navbar.  This nav menu shows the list of activity the user can navigate
+         to. -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:orientation="vertical">
+
+
+        <ListView
+            android:id="@+id/episode_sort_menu_listview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="false"
+            android:layout_alignParentTop="true"
+            android:visibility="visible" />
+
+        <View
+            android:id="@+id/simple_line"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_below="@id/episode_sort_menu_listview"
+            android:background="@android:color/darker_gray" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="false"
+            android:layout_alignParentLeft="false"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentStart="false"
+            android:layout_below="@id/simple_line"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/episode_sort_menu_cancel_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sort_menu_cancel" />
+
+            <Button
+                android:id="@+id/episode_sort_menu_ok_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sort_menu_ok" />
+
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

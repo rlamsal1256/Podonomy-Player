@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>The Math Dude Quick and Dirty Tips to Make Math Easier</title>
+        <link>http://www.quickanddirtytips.com/math-dude</link>
+        <language>en-us</language>
+        <copyright>2015 Macmillan Holdings, LLC</copyright>
+        <itunes:subtitle>Quick and Dirty Tips to Make Math Easier</itunes:subtitle>
+        <itunes:author>QuickAndDirtyTips.com</itunes:author>
+        <itunes:summary>The Math Dude makes understanding math easier and more fun than you ever thought possible. Host Dr. Jason Marshall provides clear explanations of math terms and principles, and his simple tricks for solving basic algebra problems will have even the most mathphobic looking forward to working out whatever math problem comes their way. If you're getting ready to take the SAT, GRE, or any of the other standardized tests; or if you're going back to school and need to brush up on the basics, Math Dude's Quick and Dirty Tips to Make Math Easier will strengthen your fundamental skills and help you understand the language of math. And if you just want to calculate the tip without using your iPhone and impress all your friends, his tips and tricks are for you too.</itunes:summary>
+        <description>The Math Dude makes understanding math easier and more fun than you ever thought possible. Host Dr. Jason Marshall provides clear explanations of math terms and principles, and his simple tricks for solving basic algebra problems will have even the most mathphobic looking forward to working out whatever math problem comes their way. If you're getting ready to take the SAT, GRE, or any of the other standardized tests; or if you're going back to school and need to brush up on the basics, Math Dude's Quick and Dirty Tips to Make Math Easier will strengthen your fundamental skills and help you understand the language of math. And if you just want to calculate the tip without using your iPhone and impress all your friends, his tips and tricks are for you too.</description>
+        <itunes:owner>
+            <itunes:name>Macmillan Holdings, LLC</itunes:name>
+            <itunes:email>contact@quickanddirtytips.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="http://www.quickanddirtytips.com/sites/default/files/avataritunes/14/MathDude_pod.jpg"/>
+        <itunes:category text="Education"/>
+        <itunes:category text="Education">
+            <itunes:category text="K-12"/>
+        </itunes:category>
+        <itunes:category text="Education">
+            <itunes:category text="Higher Education"/>
+        </itunes:category>
+        <itunes:explicit>no</itunes:explicit>
+        <item>
+            <title>030 TMD How to Use Math to Send Encrypted Messages</title>
+            <itunes:subtitle>Learn what one-time pad encryption is, how it has been used throughout history, and how to use math to send your own encrypted messages.</itunes:subtitle>
+            <itunes:summary>Learn what one-time pad encryption is, how it has been used throughout history, and how to use math to send your own encrypted messages. Questions go to mathdude@quickanddirtytips.com. Like what you hear? Help us out by writing a review at iTunes! Read the full transcript: http://bit.ly/UZqPpb</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_030_ed4.mp3" length="5289953" type="audio/mpeg"/>
+            <guid>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_030_ed4.mp3</guid>
+            <pubDate>Fri, 08 Apr 2016 12:30:45 -0700</pubDate>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:07:11</itunes:duration>
+        </item>
+        <item>
+            <title>277 TMD 3 Numerical Fun Facts About the NCAA Tournament</title>
+            <itunes:subtitle>Learn 3 numerically themed March Madness fun facts.</itunes:subtitle>
+            <itunes:summary>How can you quickly figure out how many games are needed to determine the winner of a tournament? What are the odds of predicting the winner of each and every game? And how does this explain why your NCAA tournament bracket was so wrong? Keep on listening to find out! Read the full transcript here: http://bit.ly/1N9qjPU</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_277-og4.mp3" length="6420074" type="audio/mpeg"/>
+            <guid>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_277-og4.mp3</guid>
+            <pubDate>Fri, 01 Apr 2016 16:30:15 -0700</pubDate>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:08:45</itunes:duration>
+        </item>
+        <item>
+            <title>213 TMD What Are the Odds of Winning the Lottery?</title>
+            <itunes:subtitle>Learn how to calculate your chances of winning the lottery.</itunes:subtitle>
+            <itunes:summary>What are the odds of winning the Mega Millions lottery jackpot and striking it rich? How long would you need to play before having a 50-50 chance of winning? Keep on listening to find out! Read the full transcript here: http://bit.ly/21M7fZl</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3?http://media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_213_kr5.mp3" length="6712391" type="audio/mpeg"/>
+            <guid>http://www.podtrac.com/pts/redirect.mp3?http://media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_213_kr5.mp3</guid>
+            <pubDate>Thu, 24 Mar 2016 21:15:45 -0700</pubDate>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:09:09</itunes:duration>
+        </item>
+        <item>
+            <title>276 TMD How to Think About Subtraction: Part 2</title>
+            <itunes:subtitle>Continue learning how to develop an intuitive feel for subtraction.</itunes:subtitle>
+            <itunes:summary>Do you really know what subtraction is? By which I mean do you really feel it in your gut? Here's part two of the series that will help you do so! Read the full transcript here: http://bit.ly/1q7Pus0</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_276-sl4.mp3" length="6423815" type="audio/mpeg"/>
+            <guid>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_276-sl4.mp3</guid>
+            <pubDate>Fri, 18 Mar 2016 07:45:15 -0700</pubDate>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:08:45</itunes:duration>
+        </item>
+        <item>
+            <title>190 TMD 3.14 Fun Facts About Pi</title>
+            <itunes:subtitle>Learn a little more than 3 fun facts about the famous number pi.</itunes:subtitle>
+            <itunes:summary>Happy Pi Day 2014! What is pi? Why does it have its own holiday? And what are some fun (and useful) facts to know about this famous number? Keep on listening to find out! Read the transcript here: http://bit.ly/1MmsaKU</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_190-sd0.mp3" length="5125655" type="audio/mpeg"/>
+            <guid>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_190-sd0.mp3</guid>
+            <pubDate>Thu, 10 Mar 2016 19:30:00 -0800</pubDate>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:06:57</itunes:duration>
+        </item>
+        <item>
+            <title>275 TMD How to Think About Subtraction: Part 1</title>
+            <itunes:subtitle>Learn how to develop an intuitive feel for subtraction.</itunes:subtitle>
+            <itunes:summary>What is subtraction? Like its close cousin addition, you no doubt “know" the answer to this question. But do you really feel the answer in your gut? Keep on listening to find out how you can! Read the full transcript here: http://bit.ly/1R1J5oQ</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_275-se2.mp3" length="7350887" type="audio/mpeg"/>
+            <guid>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_275-se2.mp3</guid>
+            <pubDate>Thu, 03 Mar 2016 12:15:00 -0800</pubDate>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:10:13</itunes:duration>
+        </item>
+        <item>
+            <title>138 TMD How to Add and Subtract Like an Egyptian</title>
+            <itunes:subtitle>Learn how the ancient Egyptians used hieroglyphics to do math.</itunes:subtitle>
+            <itunes:summary>Learn how the ancient Egyptians used hieroglyphics to do math. Read the full transcript here: http://bit.ly/1XTw70S</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_138-tw3.mp3" length="4805329" type="audio/mpeg"/>
+            <guid>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_138-tw3.mp3</guid>
+            <pubDate>Fri, 26 Feb 2016 12:30:45 -0800</pubDate>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:06:30</itunes:duration>
+        </item>
+        <item>
+            <title>274 TMD How to Think About Addition</title>
+            <itunes:subtitle>Learn how to develop an intuitive feel for addition.</itunes:subtitle>
+            <itunes:summary>What is addition? Of course you know the answer to this question, but do you really feel the answer—do you feel addition deep down in your gut? Keep on listening to find out how! Read the full transcript here: http://bit.ly/1piyuyQ</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_274-ci5.mp3" length="6996215" type="audio/mpeg"/>
+            <guid>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_274-ci5.mp3</guid>
+            <pubDate>Fri, 19 Feb 2016 14:45:00 -0800</pubDate>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:09:33</itunes:duration>
+        </item>
+        <item>
+            <title>196 TMD How Is Rainfall Measured?</title>
+            <itunes:subtitle>Learn the math behind measuring rainfall.</itunes:subtitle>
+            <itunes:summary>How is rainfall measured? What does it mean when it rains an inch? And how many gallons of water fall on your roof in a storm? Keep on listening to learn all about the math behind April showers and May flowers. Read the full transcript here: http://bit.ly/1Tg26cZ</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_196-kx5.mp3" length="4773143" type="audio/mpeg"/>
+            <guid>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_196-kx5.mp3</guid>
+            <pubDate>Thu, 11 Feb 2016 19:30:45 -0800</pubDate>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:06:28</itunes:duration>
+        </item>
+        <item>
+            <title>273 TMD How to Combine Like Terms</title>
+            <itunes:subtitle>Learn how to combine like terms in algebra.</itunes:subtitle>
+            <itunes:summary>Do you know what “like terms” in algebra are? Do you know the best way to think about them? And how to combine them? Keep on listening to find out! Read the full transcript here: http://bit.ly/1K72Y09</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_273-ck9.mp3" length="7252391" type="audio/mpeg"/>
+            <guid>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_273-ck9.mp3</guid>
+            <pubDate>Fri, 05 Feb 2016 07:00:30 -0800</pubDate>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:09:54</itunes:duration>
+        </item>
+        <item>
+            <title>114 TMD How Many Grains of Sand are on Earth's Beaches?</title>
+            <itunes:subtitle>Learn to use math to quickly estimate tough-to-calculate numbers. SPONSOR: Use the code MATH to be entered to win $1000 at http://stitcher.com/math.</itunes:subtitle>
+            <itunes:summary>Learn to use math to quickly estimate tough-to-calculate numbers. Read the full transcript here: http://bit.ly/1NYWIlK SPONSOR: Use the code MATH to be entered to win $1000 at http://stitcher.com/math. </itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_114-eg6.mp3" length="5237111" type="audio/mpeg"/>
+            <guid>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_114-eg6.mp3</guid>
+            <pubDate>Fri, 29 Jan 2016 13:30:45 -0800</pubDate>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:07:06</itunes:duration>
+        </item>
+        <item>
+            <title>272 TMD What Does Half-Life Mean?</title>
+            <itunes:subtitle>Learn the mathematical meaning of a half-life.</itunes:subtitle>
+            <itunes:summary>What are half-lives? And what do they have to do with measuring the age of the solar system and predicting the effects of a morning cup of coffee? Keep on listening to find out! Read the full transcript here: http://bit.ly/1NzcdAN</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_272-sd3.mp3" length="6792311" type="audio/mpeg"/>
+            <guid>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_272-sd3.mp3</guid>
+            <pubDate>Fri, 22 Jan 2016 14:00:00 -0800</pubDate>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:09:16</itunes:duration>
+        </item>
+        <item>
+            <title>271 TMD What Do Analog and Digital Mean?</title>
+            <itunes:subtitle>Learn what makes things analog or digital.</itunes:subtitle>
+            <itunes:summary>What do the terms “analog” and “digital” mean? What are some of the analog and digital things in your life? And what does this have to do with math? Keep on listening to find out! Read the full transcript here: http://bit.ly/1TmF6aC</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_271-cu4.mp3" length="4846583" type="audio/mpeg"/>
+            <guid>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_271-cu4.mp3</guid>
+            <pubDate>Fri, 15 Jan 2016 10:30:30 -0800</pubDate>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:06:34</itunes:duration>
+        </item>
+        <item>
+            <title>270 TMD What Is a Pie Chart?</title>
+            <itunes:subtitle>Learn all about pie … charts.</itunes:subtitle>
+            <itunes:summary>Did you know that a lot of people in the world think that pie charts are a really terrible kind of chart? Keep on listening to find out why! Read the full transcript here: http://bit.ly/1K9DkHF</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_270-cb5.mp3" length="5940839" type="audio/mpeg"/>
+            <guid>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_270-cb5.mp3</guid>
+            <pubDate>Fri, 08 Jan 2016 14:45:15 -0800</pubDate>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:08:05</itunes:duration>
+        </item>
+        <item>
+            <title>028 TMD How to Use Statistics to Understand Poll Results</title>
+            <itunes:subtitle>Learn how to use statistics to understand the significance of the latest political polling results and to keep yourself from being duped by misleading information.</itunes:subtitle>
+            <itunes:summary>Learn how to use statistics to understand the significance of the latest political polling results and to keep yourself from being duped by misleading information. Questions go to mathdude@quickanddirtytips.com or 206-339-6279. Like what you hear? Help us out by writing a review at iTunes!</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_028_wc6.mp3" length="5434776" type="audio/mpeg"/>
+            <guid>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_028_wc6.mp3</guid>
+            <pubDate>Fri, 01 Jan 2016 12:30:45 -0800</pubDate>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:07:23</itunes:duration>
+        </item>
+        <item>
+            <title>269 TMD How to Use Histograms to Fix Your Pictures</title>
+            <itunes:subtitle>Learn how to use histograms to perfect your imperfect photos.</itunes:subtitle>
+            <itunes:summary>Have you ever adjusted the exposure and brightness of a photo? Did you know you were really adjusting your picture’s photo histogram? Keep on listening to find out how it works! Read the full transcript here: bit.ly/1kNvSpN</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_269-sj7.mp3" length="5825927" type="audio/mpeg"/>
+            <guid>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_269-sj7.mp3</guid>
+            <pubDate>Fri, 25 Dec 2015 05:30:00 -0800</pubDate>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:07:55</itunes:duration>
+        </item>
+        <item>
+            <title>268 TMD How to Use Histograms to Take Better Pictures</title>
+            <itunes:subtitle>Learn how to use histograms to take better pictures.</itunes:subtitle>
+            <itunes:summary>What can a histogram tell you about a photo? How can it help you take better pictures? And how can it improve the pictures you’ve already taken? Keep on listening to find out! Read the full transcript here: bit.ly/1ZOF9xJ</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_268-fi4.mp3" length="5219831" type="audio/mpeg"/>
+            <guid>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_268-fi4.mp3</guid>
+            <pubDate>Fri, 18 Dec 2015 08:30:45 -0800</pubDate>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:07:05</itunes:duration>
+        </item>
+        <item>
+            <title>267 TMD What Is a Histogram?</title>
+            <itunes:subtitle>Learn all about histograms.</itunes:subtitle>
+            <itunes:summary>Do you know how to make a histogram? When to make one? And what you can learn from it once you do? Keep on listening to find out! Read the full transcript here: http://bit.ly/1RXVpKg</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_267-ct6.mp3" length="5957687" type="audio/mpeg"/>
+            <guid>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_267-ct6.mp3</guid>
+            <pubDate>Fri, 11 Dec 2015 05:00:30 -0800</pubDate>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:08:06</itunes:duration>
+        </item>
+        <item>
+            <title>266 TMD What Is a Bar Graph?</title>
+            <itunes:subtitle>Find out how to make bar graphs.</itunes:subtitle>
+            <itunes:summary>What are bar graphs? How do you make them? And what are they useful for? Keep on listening to find out! Read the full transcript: http://bit.ly/22eO3GG</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_266-ng4.mp3" length="5304503" type="audio/mpeg"/>
+            <guid>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_266-ng4.mp3</guid>
+            <pubDate>Fri, 04 Dec 2015 14:00:00 -0800</pubDate>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:07:12</itunes:duration>
+        </item>
+        <item>
+            <title>222 TMD Thanksgiving and Black Friday After-Math</title>
+            <itunes:subtitle>Learn about the numbers behind Thanksgiving and Black Friday.</itunes:subtitle>
+            <itunes:summary>How much turkey do Americans eat on Thanksgiving? How fast can a turkey run? And how much money do Americans spend in the days following their big feast? Keep on listening to The Math Dude to learn all about the math behind Thanksgiving and Black Friday. Visit the website: http://bit.ly/1w47J2P</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_222-hk8.mp3" length="4867319" type="audio/mpeg"/>
+            <guid>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_222-hk8.mp3</guid>
+            <pubDate>Thu, 26 Nov 2015 22:30:30 -0800</pubDate>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:06:36</itunes:duration>
+        </item>
+        <item>
+            <title>265 TMD How to Use Stem-and-Leaf Plots</title>
+            <itunes:subtitle>Find out what you can learn from a stem-and-leaf plot.</itunes:subtitle>
+            <itunes:summary>Why are stem-and-leaf plots useful? How are they related to the kind of stems and leaves that fall from trees this time of year? Keep on listening to find out! Read the full transcript here: http://bit.ly/1k7iUTj</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_265-dr5.mp3" length="5188727" type="audio/mpeg"/>
+            <guid>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_265-dr5.mp3</guid>
+            <pubDate>Fri, 20 Nov 2015 10:30:15 -0800</pubDate>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:07:02</itunes:duration>
+        </item>
+        <item>
+            <title>264 TMD What Are Stem-and-Leaf Plots?</title>
+            <itunes:subtitle>Learn how to make a stem-and-leaf plot.</itunes:subtitle>
+            <itunes:summary>How do you make stem-and-leaf plots? Why might you want to? How are they related to the stems and leaves that fall from trees? Keep on listening to find out! Read the full transcript here: http://bit.ly/1Yn3YmQ</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_264-se8.mp3" length="5596967" type="audio/mpeg"/>
+            <guid>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_264-se8.mp3</guid>
+            <pubDate>Fri, 13 Nov 2015 13:00:45 -0800</pubDate>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:07:36</itunes:duration>
+        </item>
+        <item>
+            <title>263 TMD How to Solve Archimedes’ Volume Puzzle</title>
+            <itunes:subtitle>Learn Archimedes’ famous method for calculating volume.</itunes:subtitle>
+            <itunes:summary>Have you ever heard the story of Archimedes and his famous “Eureka!” moment? Want to know how to use his discovery to measure the volume of a pumpkin … or anything else? Keep on listening to find out! Read the full transcript here: http://bit.ly/1TV1juj</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_263-ai9.mp3" length="5253527" type="audio/mpeg"/>
+            <guid>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_263-ai9.mp3</guid>
+            <pubDate>Fri, 06 Nov 2015 14:00:00 -0800</pubDate>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:07:08</itunes:duration>
+        </item>
+        <item>
+            <title>172 TMD Halloween Math and More Percentage Questions</title>
+            <itunes:subtitle>Learn some fun math facts about Halloween and percentages.</itunes:subtitle>
+            <itunes:summary>How can you figure out what number 200 is 17% of? How do you calculate the original price of something before a 30% markup? What math makes the Halloween holiday go round-and-round? Keep on listening to learn the answers to these frequently asked questions about percentages! Visit the website: http://bit.ly/1tEiypA</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_172-ew8.mp3" length="4733831" type="audio/mpeg"/>
+            <guid>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_172-ew8.mp3</guid>
+            <pubDate>Fri, 30 Oct 2015 08:30:00 -0700</pubDate>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:06:24</itunes:duration>
+        </item>
+        <item>
+            <title>262 TMD How to Find the Volume of a Pumpkin</title>
+            <itunes:subtitle>Learn how to estimate the volume of an ellipsoid…and a pumpkin.</itunes:subtitle>
+            <itunes:summary>How can you find the volume of a pumpkin? How is this related to finding the volume of an ellipsoid? And what does any of this have to do with Archimedes’ famous “Eureka!” moment? Keep on listening to find out! Read the full transcript here: http://bit.ly/1LF1vLp</itunes:summary>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_262-ck5.mp3" length="6523175" type="audio/mpeg"/>
+            <guid>http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/mathdude/traffic.libsyn.com/mathdude/tmd_262-ck5.mp3</guid>
+            <pubDate>Fri, 23 Oct 2015 12:45:30 -0700</pubDate>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:08:54</itunes:duration>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The nave menu is a dialog that popups at the bottom left when pressing the nav
+     button in the navbar.  This nav menu shows the list of activity the user can navigate
+     to. -->
+
+
+<ListView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/playlist_action_menu_listview"
+    android:layout_gravity="bottom"
+    android:layout_alignParentTop="true"
+    android:layout_alignParentLeft="false"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
+
+

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:key="set_local"
+        android:title="Display">
+        <ListPreference
+            android:dialogTitle="Theme"
+            android:entries="@array/theme"
+            android:entryValues="@array/theme_value"
+            android:key="apply_theme"
+            android:summary="Select your theme style(Light or Dark)"
+            android:title="Theme">
+        </ListPreference>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="pref_channel_settings"
+        android:title="@string/pref_channel_title">
+        <ListPreference
+            android:dialogTitle="@string/pref_default_playlist"
+            android:entries="@array/theme"
+            android:entryValues="@array/theme_value"
+            android:key="pref_default_playlist"
+            android:summary="@string/pref_default_playlist_summary"
+            android:title="@string/pref_default_playlist">
+        </ListPreference>
+        <CheckBoxPreference
+            android:key="pref_payout_exclude"
+            android:summary="@string/pref_exclude_from_payouts_summary"
+            android:title="@string/pref_exclude_from_payouts"
+            android:defaultValue="false">
+        </CheckBoxPreference>
+        <EditTextPreference
+            android:key="pref_fix_amount"
+            android:summary="@string/pref_fix_amount_summary"
+            android:title="@string/pref_fix_amount">
+        </EditTextPreference>
+
+    </PreferenceCategory>
+
+
+    <PreferenceCategory
+        android:key="pref_playlist_settings"
+        android:title="@string/pref_playlist_title">
+        <EditTextPreference
+            android:key="pref_max_episode_age"
+            android:summary="@string/pref_max_episode_age_summary"
+            android:title="@string/pref_max_episode_age"
+            android:defaultValue="@string/zero">
+        </EditTextPreference>
+        <CheckBoxPreference
+            android:key="pref_delete_after_played"
+            android:summary="@string/pref_delete_upon_played_summary"
+            android:title="@string/pref_delete_upon_played"
+            android:defaultValue="false">
+        </CheckBoxPreference>
+        <CheckBoxPreference
+            android:key="pref_loopback"
+            android:summary="@string/pref_loop_back_summary"
+            android:title="@string/pref_loop_back"
+            android:defaultValue="false">
+        </CheckBoxPreference>
+
+
+    </PreferenceCategory>
+
+
+    <PreferenceCategory
+        android:key="pref_general_settings"
+        android:title="@string/pref_general_title">
+        <EditTextPreference
+            android:key="pref_monthly_budget"
+            android:summary="@string/pref_monthly_budget_summary"
+            android:title="@string/pref_monthly_budget"
+            android:defaultValue="@string/zero">
+        </EditTextPreference>
+        <ListPreference
+        android:dialogTitle="@string/pref_distribution_method"
+        android:entries="@array/theme"
+        android:entryValues="@array/theme_value"
+        android:key="pref_distribution_method"
+        android:summary="@string/pref_distribution_method_summary"
+        android:title="@string/pref_distribution_method">
+        </ListPreference>
+        <EditTextPreference
+            android:key="pref_trash_keep_duration"
+            android:summary="@string/pref_trash_keep_duration_summary"
+            android:title="@string/pref_trash_keep_duration"
+            android:defaultValue="@string/one">
+        </EditTextPreference>
+        <EditTextPreference
+            android:key="pref_refresh_rate"
+            android:summary="@string/pref_refresh_rate_summary"
+            android:title="@string/pref_refresh_rate"
+            android:defaultValue="@string/twelve">
+        </EditTextPreference>
+        <EditTextPreference
+            android:key="pref_max_episodes"
+            android:summary="@string/pref_max_episodes_summary"
+            android:title="@string/pref_max_episodes"
+            android:defaultValue="@string/fifty">
+        </EditTextPreference>
+        <CheckBoxPreference
+            android:key="pref_older_download_first"
+            android:summary="@string/pref_download_older_first_summary"
+            android:title="@string/pref_download_older_first"
+            android:defaultValue="false">
+        </CheckBoxPreference>
+        <EditTextPreference
+            android:key="pref_download_after"
+            android:summary="@string/pref_download_after_summary"
+            android:title="@string/pref_download_after">
+        </EditTextPreference>
+        <EditTextPreference
+            android:key="pref_skip_forward"
+            android:summary="@string/pref_skip_forward_summary"
+            android:title="@string/pref_skip_forward"
+            android:defaultValue="@string/five">
+        </EditTextPreference>
+        <EditTextPreference
+            android:key="pref_skip_backward"
+            android:summary="@string/pref_skip_backward_summary"
+            android:title="@string/pref_skip_backward"
+            android:defaultValue="@string/five">
+        </EditTextPreference>
+        <EditTextPreference
+            android:key="pref_play_speed"
+            android:summary="@string/pref_play_speed_summary"
+            android:title="@string/pref_play_speed"
+            android:defaultValue="@string/hundred">
+        </EditTextPreference>
+
+    </PreferenceCategory>
+
+
+</PreferenceScreen>

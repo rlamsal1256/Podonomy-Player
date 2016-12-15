@@ -1,0 +1,246 @@
+<resources>
+    <string name="app_name">Podonomy Player</string>
+    <string name="crash_dialog_title">Podonomy Player has crashed</string>
+    <string name="crash_dialog_text">An unexpected error occurred forcing Podonomy Player to stop. Please help us fix this by sending us Podonomy Player log and anonymous information about your device. You can edit the message before sending as you wish.</string>
+    <string name="crash_dialog_ok_toast">Thank you!</string>
+
+
+    <!-- Google ad banner/view stuff -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <!--  ====================================================
+          Nav menu / nav bar stuff
+          ====================================================
+    -->
+    <string name="navmenu_itm_profile">Profile</string>
+    <string name="navmenu_itm_playlists">Playlists</string>
+    <string name="navmenu_itm_subscriptions">Subscriptions</string>
+    <string name="navmenu_itm_player">Player</string>
+    <string name="navmenu_itm_downloads">Downloads</string>
+    <string-array name="navmenu_items">
+        <item>@string/navmenu_itm_profile</item>
+        <item>@string/navmenu_itm_playlists</item>
+        <item>@string/navmenu_itm_subscriptions</item>
+        <item>@string/navmenu_itm_player</item>
+        <item>@string/navmenu_itm_downloads</item>
+        <item>Reset Database</item>
+    </string-array>
+
+    <!--  ====================================================
+          Subscriptions Stuff
+          ====================================================
+    -->
+    <string name="subscriptions_episodes_tab">Episodes</string>
+    <string name="subscriptions_search_results_tab">Results</string>
+    <string name="subscriptions_subscriptions_tab">Subscriptions</string>
+    <string name="subscriptions_list_view_item_episodes">Episodes</string>
+    <string name="subscriptions_you_have_no_subscriptions">You have no subscriptions</string>
+    <string name="subscriptions_no_search_results">No search results found</string>
+    <string name="subscribed_message">Subscribed</string>
+    <string name="unsubscribed_message">Unsubscribed</string>
+    <string name="unsubscribing_wait_message">Unsubscribing...</string>
+
+
+    <!--  ====================================================
+          Downlaods Stuff
+          ====================================================
+    -->
+
+    <string name="downloads_you_have_no_downloads">You have no current downloads</string>
+    <string name="downloads_running_label">Running</string>
+    <string name="downloads_completed_label">Completed</string>
+
+
+    <!--  ====================================================
+          Search Dialog Stuff
+          ====================================================
+    -->
+    <string name="search_dialog_title">Search</string>
+    <string name="search_language">Language</string>
+    <string name="search_pub_in_past">Published in the past</string>
+    <string name="search_pub_in_past_weeks">weeks</string>
+    <string name="search_local">Local</string>
+    <string name="search_audio">Audio</string>
+    <string name="search_video">Video</string>
+    <string name="search_type_search_keywords">&lt;type search keywords&gt;</string>
+    <string name="search_cancel_button_label">Cancel</string>
+    <string name="search_search_button_label">Search</string>
+    <string name="search_search_wait_msg">Searching....</string>
+    <string-array name="search_language_list">
+        <item>English</item>
+        <item>French</item>
+        <item>Spanish</item>
+    </string-array>
+    <string name="search_err_keyword_needed">Search keywords needed.</string>
+    <string name="search_err_invalid_number_of_weeks">Invalid number of weeks</string>
+
+
+    <!--  ====================================================
+          Playlist stuff
+          ====================================================
+    -->
+    <string name="playlist_downloaded">Downloaded</string>
+    <string name="playlist_InvalidPlaylistException">"%s" is not a valid playlist name</string>
+    <string name="playlist_PlaylistAlreadyExistsException">Playlist "%s" already exists</string>
+
+
+
+    <!--  ====================================================
+      Theme stuff
+      ====================================================
+    -->
+    <string-array name="theme">
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+    <string-array name="theme_value">
+        <item>Podonomy_Default</item>
+        <item>Podonomy_Dark</item>
+    </string-array>
+
+    <!--  ====================================================
+      Playlist sort stuff
+      ====================================================
+    -->
+    <string name="playlist_sort_name">Name</string>
+    <string name="playlist_sort_publication_date">Publication Date</string>
+    <string name="playlist_sort_duration">Duration</string>
+    <string name="playlist_sort_size">Size</string>
+    <string name="playlist_sort_download_date">Download Date</string>
+    <string name="playlist_sort_channel_priority">Channel Priority</string>
+    <string name="playlist_sort_menu_title">My Playlist Sort</string>
+    <string name="ascending_label">(asc)</string>
+    <string name="descending_label">(desc)</string>
+
+    <string-array name="playlist_sort_items">
+        <item>@string/playlist_sort_name</item>
+        <item>@string/playlist_sort_publication_date</item>
+        <item>@string/playlist_sort_duration</item>
+        <item>@string/playlist_sort_size</item>
+        <item>@string/playlist_sort_download_date</item>
+        <item>@string/playlist_sort_channel_priority</item>
+    </string-array>
+
+
+    <string name="sort_menu_cancel">Cancel</string>
+    <string name="sort_menu_ok">Ok</string>
+
+    <!--  ====================================================
+          Playlist sort stuff
+          ====================================================
+        -->
+    <string name="episode_sort_menu_title">Sort</string>
+    <string name="episode_sort_name">Name</string>
+    <string name="episode_sort_publication_date">Publication Date</string>
+    <string name="episode_sort_duration">Duration</string>
+    <string name="episode_sort_size">Size</string>
+    <string name="episode_sort_download_date">Download Date</string>
+    <string name="episode_sort_channel_priority">Channel Priority</string>
+    <string-array name="episode_sort_menu_items">
+        <item>@string/episode_sort_name</item>
+        <item>@string/episode_sort_publication_date</item>
+        <item>@string/episode_sort_duration</item>
+        <item>@string/episode_sort_size</item>
+        <item>@string/episode_sort_download_date</item>
+        <item>@string/episode_sort_channel_priority</item>
+    </string-array>
+
+    <!--  ====================================================
+          Playlist action menu stuff
+          ====================================================
+    -->
+    <string name="new_playlist_action">New Playlist</string>
+    <string name="delete_playlist_action">Delete Playlist</string>
+    <string name="settings_action">Settings</string>
+    <string name="play_playlist_action">Play Playlist</string>
+    <string-array name="playlist_action_menu_items">
+        <item>@string/new_playlist_action</item>
+        <item>@string/delete_playlist_action</item>
+        <item>@string/settings_action</item>
+        <item>@string/play_playlist_action</item>
+    </string-array>
+
+    <!--  ====================================================
+          Playlist action menu stuff
+          ====================================================
+    -->
+    <string name="cancel_download">Cancel</string>
+    <string name="pause_download">Pause</string>
+    <string name="resume_download">Resume</string>
+    <string name="force_download">Force Download</string>
+    <string name="cancel_download_label">CancelDownload</string>
+    <string name="cover_label">Picture</string>
+    <string name="in_queue_label">Episode is in the queue</string>
+    <string name="remove_episode_lable">Remove Episode</string>
+    <string name="running_downloads_tab">Running</string>
+    <string name="completed_downloads_tab">Completed</string>
+    <string name="lorem_ipsum">Just some random text</string>
+    <string name="moved">position %1$s moved to position %2$s</string>
+    <string name="row_number"><![CDATA[This is row number %d<]]></string>
+    <string name="player_episode_description">Episode Description</string>
+    <string name="episode_title">Episode Title</string>
+    <string name="episode_sub_title">Episode Sub Title</string>
+    <string-array name="downloads_action_menu_items">
+        <item>@string/cancel_download</item>
+        <item>@string/pause_download</item>
+        <item>@string/resume_download</item>
+        <item>@string/force_download</item>
+    </string-array>
+
+
+    <!--  ====================================================
+         Preference stuff
+         ====================================================
+   -->
+
+    <string name="pref_channel_title">Channel</string>
+    <string name="pref_default_playlist">Default Playlist</string>
+    <string name="pref_default_playlist_summary">Select which playlist a newly downloaded episode should be added to</string>
+    <string name="pref_exclude_from_payouts">Exclude From Payouts</string>
+    <string name="pref_exclude_from_payouts_summary">The channel will not receive money</string>
+    <string name="pref_fix_amount">Fix Amount</string>
+    <string name="pref_fix_amount_summary">The channel will receive this specified amount each month regardless of the number of min/episodes listened/published</string>
+
+    <string name="pref_playlist_title">Playlist</string>
+    <string name="pref_delete_upon_played">Delete Upon Played</string>
+    <string name="pref_delete_upon_played_summary">Episode will be automatically moved to the trash playlist once it has been played or marked as played</string>
+    <string name="pref_max_episode_age">Max Episode Age</string>
+    <string name="pref_max_episode_age_summary">The max age(in days) an episode can be before it is deleted from the playlist, played ot not</string>
+    <string name="zero">0</string>
+    <string name="pref_loop_back">Loop Back</string>
+    <string name="pref_loop_back_summary">The player will loop back to the beginning of the playlist once it\'s reached the end</string>
+
+
+    <string name="pref_general_title">General</string>
+    <string name="pref_monthly_budget">Monthly Budget</string>
+    <string name="pref_monthly_budget_summary">Specify the monthly budget amount that will be distributed to the publishers</string>
+    <string name="pref_distribution_method">Distribution Method</string>
+    <string name="pref_distribution_method_summary">Specify how the monthly budget is distributed amongst the publishers</string>
+    <string name="pref_trash_keep_duration">Trash Keep Duration</string>
+    <string name="pref_trash_keep_duration_summary">Specify the max amount of days a deleted episode should be kept before it is permanently deleted</string>
+    <string name="one">1</string>
+    <string name="pref_refresh_rate">Refresh Rate</string>
+    <string name="pref_refresh_rate_summary">Specify the frequency (in min or hours) at which the system should check for new episodes from the rss feed</string>
+    <string name="twelve">12</string>
+    <string name="pref_max_episodes">Max Episodes</string>
+    <string name="pref_max_episodes_summary">Specify the maximum number of episodes that can be downloaded (and stored locally) at any time.  Upon reaching this amount, no download will occur until an existing episode is deleted</string>
+    <string name="fifty">50</string>
+    <string name="pref_download_older_first">Download Older First</string>
+    <string name="pref_download_older_first_summary">Download the older episodes first before downloading newer ones</string>
+    <string name="pref_download_after">Download After</string>
+    <string name="pref_download_after_summary">Specify a date from which any episode may be downloaded. Any episodes published before this date will be ignored</string>
+    <string name="pref_skip_forward">Skip Forward</string>
+    <string name="pref_skip_forward_summary">Specifies the number of seconds the player will skip when the user plays the "skip forward" button</string>
+    <string name="five">5</string>
+    <string name="pref_skip_backward">Skip Backward</string>
+    <string name="pref_skip_backward_summary">Specifies the number of seconds the player will rewind when the user plays the "skip backward" button</string>
+    <string name="pref_play_speed">Play Speed</string>
+    <string formatted="false" name="pref_play_speed_summary">Specify the play speed as a percentage of its original speed.  100% is normal speed, 50% is half normal peed and 200% is twice the speed</string>
+    <string name="hundred">100</string>
+
+
+
+
+
+
+</resources>

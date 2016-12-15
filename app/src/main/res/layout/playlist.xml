@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                xmlns:ads="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools">
+
+    <include layout="@layout/ad_bar"
+             android:id="@+id/ad_bar"
+             android:layout_width="fill_parent"
+             android:layout_height="wrap_content"/>
+
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/playlist_episodeListView"
+        android:layout_above="@id/navbar"
+        android:layout_below="@+id/ad_bar"/>
+
+    <include layout="@layout/navigation_bar"
+             android:id="@+id/navbar"
+             android:layout_width="fill_parent"
+             android:layout_height="wrap_content"
+             android:layout_alignParentEnd="false"
+             android:layout_alignParentRight="false"
+             android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>

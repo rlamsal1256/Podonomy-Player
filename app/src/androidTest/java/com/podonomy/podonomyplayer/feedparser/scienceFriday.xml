@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+>
+
+    <channel>
+        <title>Science Friday</title>
+        <atom:link href="http://www.sciencefriday.com/feed/podcast/podcast-episode" rel="self" type="application/rss+xml" />
+        <link>http://www.sciencefriday.com/</link>
+        <description>Covering everything about science and technology -- from the outer reaches of space to the tiniest microbes in our bodies -- Science Friday is your source for entertaining and educational stories and activities. Each week, host Ira Flatow interviews scientists and inventors like Sylvia Earle, Elon Musk, Neil deGrasse Tyson, and more.</description>
+        <lastBuildDate>Thu, 14 Apr 2016 14:32:33 +0000</lastBuildDate>
+        <language>en-US</language>
+        <copyright>© 2015 Science Friday</copyright>
+        <itunes:subtitle>It&#039;s brain fun, for curious people</itunes:subtitle>
+        <itunes:author>Science Friday</itunes:author>
+        <itunes:summary>Covering everything about science and technology -- from the outer reaches of space to the tiniest microbes in our bodies -- Science Friday is your source for entertaining and educational stories and activities. Each week, host Ira Flatow interviews scientists and inventors like Sylvia Earle, Elon Musk, Neil deGrasse Tyson, and more.</itunes:summary>
+        <itunes:owner>
+            <itunes:name>Science Friday</itunes:name>
+            <itunes:email>scifri@sciencefriday.com</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:image href="http://live-sciencefriday.pantheon.io/wp-content/uploads/2015/10/SciFri_avatar_1400x.png"></itunes:image>
+        <itunes:category text="Science &amp; Medicine">
+        </itunes:category>
+        <generator>https://wordpress.org/?v=4.4</generator>
+        <item>
+            <title>Hr1: News Roundup, Climate and the Collapse of Ancient Civilizations, Climate Fiction</title>
+            <link>http://www.sciencefriday.com/podcast/hr1-news-roundup-climate-and-the-collapse-of-ancient-civilizations-climate-fiction/</link>
+            <pubDate>Fri, 08 Apr 2016 19:00:00 GMT</pubDate>
+            <dc:creator>Science Friday</dc:creator>
+            <guid isPermaLink="false">http://www.sciencefriday.com/?post_type=podcast&#038;p=32236</guid>
+            <description><![CDATA[Writer Paolo Bacigalupi is using fiction to help us imagine our climate change futureÂ—and he is not alone. Plus, how did climate change affect the boom-and-bust cycles of of ancient Southwest civilizations in the United States?
+]]></description>
+            <itunes:subtitle><![CDATA[Writer Paolo Bacigalupi is using fiction to help us imagine our climate change futureÂ—and he is not alone. Plus, how did climate change affect the boom-and-bust cycles of of ancient Southwest civilizations in the United States?
+]]></itunes:subtitle>
+            <content:encoded><![CDATA[<p>Writer Paolo Bacigalupi is using fiction to help us imagine our climate change futureÂ—and he is not alone. Plus, how did climate change affect the boom-and-bust cycles of of ancient Southwest civilizations in the United States?</p>
+]]></content:encoded>
+            <itunes:summary><![CDATA[<p>Writer Paolo Bacigalupi is using fiction to help us imagine our climate change futureÂ—and he is not alone. Plus, how did climate change affect the boom-and-bust cycles of of ancient Southwest civilizations in the United States?</p>
+]]></itunes:summary>		<enclosure url="http://www.sciencefriday.com/podcast-download/32236/hr1-news-roundup-climate-and-the-collapse-of-ancient-civilizations-climate-fiction.mp3" length="1" type="audio/mpeg"></enclosure>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:block>No</itunes:block>
+            <itunes:duration>00:46:34</itunes:duration>
+            <itunes:author>Science Friday</itunes:author>
+        </item>	<item>
+        <title>Hr2: Insulin Pricing, Science From Space, Lab Girl Memoir</title>
+        <link>http://www.sciencefriday.com/podcast/hr2-insulin-pricing-science-from-space-lab-girl-memoir/</link>
+        <pubDate>Fri, 08 Apr 2016 19:00:00 GMT</pubDate>
+        <dc:creator>Science Friday</dc:creator>
+        <guid isPermaLink="false">http://www.sciencefriday.com/?post_type=podcast&#038;p=32242</guid>
+        <description><![CDATA[Undiscovered tombs and pyramids can be found right on your iPad, if you know what to look for. Plus, the memoir _Lab Girl_ from geobiologist Hope Jahren.
+]]></description>
+        <itunes:subtitle><![CDATA[Undiscovered tombs and pyramids can be found right on your iPad, if you know what to look for. Plus, the memoir _Lab Girl_ from geobiologist Hope Jahren.
+]]></itunes:subtitle>
+        <content:encoded><![CDATA[<p>Undiscovered tombs and pyramids can be found right on your iPad, if you know what to look for. Plus, the memoir _Lab Girl_ from geobiologist Hope Jahren.</p>
+]]></content:encoded>
+        <itunes:summary><![CDATA[<p>Undiscovered tombs and pyramids can be found right on your iPad, if you know what to look for. Plus, the memoir _Lab Girl_ from geobiologist Hope Jahren.</p>
+]]></itunes:summary>		<enclosure url="http://www.sciencefriday.com/podcast-download/32242/hr2-insulin-pricing-science-from-space-lab-girl-memoir.mp3" length="1" type="audio/mpeg"></enclosure>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:45:48</itunes:duration>
+        <itunes:author>Science Friday</itunes:author>
+    </item>	<item>
+        <title>Hr1: News Roundup, How Games Move Us, Spot the Spoof Science Study</title>
+        <link>http://www.sciencefriday.com/podcast/hr1-news-roundup-how-games-move-us-spot-the-spoof-science-study/</link>
+        <pubDate>Fri, 01 Apr 2016 19:00:00 GMT</pubDate>
+        <dc:creator>Science Friday</dc:creator>
+        <guid isPermaLink="false">http://www.sciencefriday.com/?post_type=podcast&#038;p=32090</guid>
+        <description><![CDATA[Some of todays video games are pushing players into new emotional territory, engaging complex feelings like complicity, empathy, and grief. Plus, how good are you at picking out an authentic research study from a spoof?]]></description>
+        <itunes:subtitle><![CDATA[Some of todays video games are pushing players into new emotional territory, engaging complex feelings like complicity, empathy, and grief. Plus, how good are you at picking out an authentic research study from a spoof?]]></itunes:subtitle>
+        <content:encoded><![CDATA[<p>Some of todays video games are pushing players into new emotional territory, engaging complex feelings like complicity, empathy, and grief. Plus, how good are you at picking out an authentic research study from a spoof?</p>
+]]></content:encoded>
+        <itunes:summary><![CDATA[<p>Some of todays video games are pushing players into new emotional territory, engaging complex feelings like complicity, empathy, and grief. Plus, how good are you at picking out an authentic research study from a spoof?</p>
+]]></itunes:summary>		<enclosure url="http://www.sciencefriday.com/podcast-download/32090/hr1-news-roundup-how-games-move-us-spot-the-spoof-science-study.mp3" length="1" type="audio/mpeg"></enclosure>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:46:43</itunes:duration>
+        <itunes:author>Science Friday</itunes:author>
+    </item>	<item>
+        <title>Hr2: Sea Level Rise, Sorting Out Social Media Feeds, Springtime Blooms</title>
+        <link>http://www.sciencefriday.com/podcast/hr2-sea-level-rise-sorting-out-social-media-feeds-springtime-blooms/</link>
+        <pubDate>Fri, 01 Apr 2016 19:00:00 GMT</pubDate>
+        <dc:creator>Science Friday</dc:creator>
+        <guid isPermaLink="false">http://www.sciencefriday.com/?post_type=podcast&#038;p=32102</guid>
+        <description><![CDATA[A new study suggests a melting Antarctica could pump up global sea levels much more than previously predicted. Plus, social media feed curation, and how springtime can bring some unexpected blooms.]]></description>
+        <itunes:subtitle><![CDATA[A new study suggests a melting Antarctica could pump up global sea levels much more than previously predicted. Plus, social media feed curation, and how springtime can bring some unexpected blooms.]]></itunes:subtitle>
+        <content:encoded><![CDATA[<p>A new study suggests a melting Antarctica could pump up global sea levels much more than previously predicted. Plus, social media feed curation, and how springtime can bring some unexpected blooms.</p>
+]]></content:encoded>
+        <itunes:summary><![CDATA[<p>A new study suggests a melting Antarctica could pump up global sea levels much more than previously predicted. Plus, social media feed curation, and how springtime can bring some unexpected blooms.</p>
+]]></itunes:summary>		<enclosure url="http://www.sciencefriday.com/podcast-download/32102/hr2-sea-level-rise-sorting-out-social-media-feeds-springtime-blooms.mp3" length="1" type="audio/mpeg"></enclosure>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:47:03</itunes:duration>
+        <itunes:author>Science Friday</itunes:author>
+    </item>	<item>
+        <title>Hr2: Ancient Beer,  Unlocking the Encryption Debate</title>
+        <link>http://www.sciencefriday.com/podcast/hr2-ancient-beer-unlocking-the-encryption-debate/</link>
+        <pubDate>Fri, 25 Mar 2016 19:00:00 GMT</pubDate>
+        <dc:creator>Science Friday</dc:creator>
+        <guid isPermaLink="false">http://www.sciencefriday.com/?post_type=podcast&#038;p=31890</guid>
+        <description><![CDATA[In the 90s, the Clipper Chip was the big government encryption case. Two Science Friday guests involved in that early debate rejoin us to weigh in on the Apple argument. Plus, two anthropologists are studying an ancient brewery.]]></description>
+        <itunes:subtitle><![CDATA[In the 90s, the Clipper Chip was the big government encryption case. Two Science Friday guests involved in that early debate rejoin us to weigh in on the Apple argument. Plus, two anthropologists are studying an ancient brewery.]]></itunes:subtitle>
+        <content:encoded><![CDATA[<p>In the 90s, the Clipper Chip was the big government encryption case. Two Science Friday guests involved in that early debate rejoin us to weigh in on the Apple argument. Plus, two anthropologists are studying an ancient brewery.</p>
+]]></content:encoded>
+        <itunes:summary><![CDATA[<p>In the 90s, the Clipper Chip was the big government encryption case. Two Science Friday guests involved in that early debate rejoin us to weigh in on the Apple argument. Plus, two anthropologists are studying an ancient brewery.</p>
+]]></itunes:summary>		<enclosure url="http://www.sciencefriday.com/podcast-download/31890/hr2-ancient-beer-unlocking-the-encryption-debate.mp3" length="1" type="audio/mpeg"></enclosure>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:48:54</itunes:duration>
+        <itunes:author>Science Friday</itunes:author>
+    </item>	<item>
+        <title>Hr1: News Roundup, Minimalist Biology, The Road to LIGO</title>
+        <link>http://www.sciencefriday.com/podcast/hr1-news-roundup-minimalist-biology-the-road-to-ligo/</link>
+        <pubDate>Fri, 25 Mar 2016 19:00:00 GMT</pubDate>
+        <dc:creator>Science Friday</dc:creator>
+        <guid isPermaLink="false">http://www.sciencefriday.com/?post_type=podcast&#038;p=31889</guid>
+        <description><![CDATA[Craig Venter and his team have booted up a cell with only the bare minimum genetic instructions required for life. Plus, Janna Levin on LIGO.]]></description>
+        <itunes:subtitle><![CDATA[Craig Venter and his team have booted up a cell with only the bare minimum genetic instructions required for life. Plus, Janna Levin on LIGO.]]></itunes:subtitle>
+        <content:encoded><![CDATA[<p>Craig Venter and his team have booted up a cell with only the bare minimum genetic instructions required for life. Plus, Janna Levin on LIGO.</p>
+]]></content:encoded>
+        <itunes:summary><![CDATA[<p>Craig Venter and his team have booted up a cell with only the bare minimum genetic instructions required for life. Plus, Janna Levin on LIGO.</p>
+]]></itunes:summary>		<enclosure url="http://www.sciencefriday.com/podcast-download/31889/hr1-news-roundup-minimalist-biology-the-road-to-ligo.mp3" length="1" type="audio/mpeg"></enclosure>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:49:31</itunes:duration>
+        <itunes:author>Science Friday</itunes:author>
+    </item>	<item>
+        <title>Hr2: Tricking Tumor Cells, Investigating Sea Level Rise on a Local Level, Teaching Climate Change Science</title>
+        <link>http://www.sciencefriday.com/podcast/hr2-tricking-tumor-cells-investigating-sea-level-rise-on-a-local-level-teaching-climate-change-science/</link>
+        <pubDate>Fri, 18 Mar 2016 19:00:00 GMT</pubDate>
+        <dc:creator>Science Friday</dc:creator>
+        <guid isPermaLink="false">http://www.sciencefriday.com/?post_type=podcast&#038;p=31735</guid>
+        <description><![CDATA[A panel of education experts discusses challenges and approaches to teaching climate change science in the classroom.  Plus, how a new method convinces cancer cells to gobble up a ball of poison and ferry it directly to the cell nucleus.]]></description>
+        <itunes:subtitle><![CDATA[A panel of education experts discusses challenges and approaches to teaching climate change science in the classroom.  Plus, how a new method convinces cancer cells to gobble up a ball of poison and ferry it directly to the cell nucleus.]]></itunes:subtitle>
+        <content:encoded><![CDATA[<p>A panel of education experts discusses challenges and approaches to teaching climate change science in the classroom.  Plus, how a new method convinces cancer cells to gobble up a ball of poison and ferry it directly to the cell nucleus.</p>
+]]></content:encoded>
+        <itunes:summary><![CDATA[<p>A panel of education experts discusses challenges and approaches to teaching climate change science in the classroom.  Plus, how a new method convinces cancer cells to gobble up a ball of poison and ferry it directly to the cell nucleus.</p>
+]]></itunes:summary>		<enclosure url="http://www.sciencefriday.com/podcast-download/31735/hr2-tricking-tumor-cells-investigating-sea-level-rise-on-a-local-level-teaching-climate-change-science.mp3" length="1" type="audio/mpeg"></enclosure>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:47:17</itunes:duration>
+        <itunes:author>Science Friday</itunes:author>
+    </item>	<item>
+        <title>Hr1: News Roundup, Serengeti Rules, A Space Program</title>
+        <link>http://www.sciencefriday.com/podcast/hr1-news-roundup-serengeti-rules-a-space-program/</link>
+        <pubDate>Fri, 18 Mar 2016 19:00:00 GMT</pubDate>
+        <dc:creator>Science Friday</dc:creator>
+        <guid isPermaLink="false">http://www.sciencefriday.com/?post_type=podcast&#038;p=31734</guid>
+        <description><![CDATA[Sculptor Tom Sachs has built his own space program, and it is 100 percent DIY.  Plus, biologist Sean B. Carroll describes some of the greatest experiments in ecology.]]></description>
+        <itunes:subtitle><![CDATA[Sculptor Tom Sachs has built his own space program, and it is 100 percent DIY.  Plus, biologist Sean B. Carroll describes some of the greatest experiments in ecology.]]></itunes:subtitle>
+        <content:encoded><![CDATA[<p>Sculptor Tom Sachs has built his own space program, and it is 100 percent DIY.  Plus, biologist Sean B. Carroll describes some of the greatest experiments in ecology.</p>
+]]></content:encoded>
+        <itunes:summary><![CDATA[<p>Sculptor Tom Sachs has built his own space program, and it is 100 percent DIY.  Plus, biologist Sean B. Carroll describes some of the greatest experiments in ecology.</p>
+]]></itunes:summary>		<enclosure url="http://www.sciencefriday.com/podcast-download/31734/hr1-news-roundup-serengeti-rules-a-space-program.mp3" length="1" type="audio/mpeg"></enclosure>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:47:04</itunes:duration>
+        <itunes:author>Science Friday</itunes:author>
+    </item>	<item>
+        <title>Hr2: Ocular Stem Cell Therapy, Ask an Ophthalmologist, Quantum Computing, Pi</title>
+        <link>http://www.sciencefriday.com/podcast/hr2-ocular-stem-cell-therapy-ask-an-ophthalmologist-quantum-computing-pi/</link>
+        <pubDate>Fri, 11 Mar 2016 19:00:00 GMT</pubDate>
+        <dc:creator>Science Friday</dc:creator>
+        <guid isPermaLink="false">http://www.sciencefriday.com/?post_type=podcast&#038;p=31572</guid>
+        <description><![CDATA[Ophthalmologists Lisa Park and Anne Sumers address queries about eyes and vision. Plus, Researchers used stem cells to grow eye tissues. And a look at the potential of quantum computers.
+]]></description>
+        <itunes:subtitle><![CDATA[Ophthalmologists Lisa Park and Anne Sumers address queries about eyes and vision. Plus, Researchers used stem cells to grow eye tissues. And a look at the potential of quantum computers.
+]]></itunes:subtitle>
+        <content:encoded><![CDATA[<p>Ophthalmologists Lisa Park and Anne Sumers address queries about eyes and vision. Plus, Researchers used stem cells to grow eye tissues. And a look at the potential of quantum computers.</p>
+]]></content:encoded>
+        <itunes:summary><![CDATA[<p>Ophthalmologists Lisa Park and Anne Sumers address queries about eyes and vision. Plus, Researchers used stem cells to grow eye tissues. And a look at the potential of quantum computers.</p>
+]]></itunes:summary>		<enclosure url="http://www.sciencefriday.com/podcast-download/31572/hr2-ocular-stem-cell-therapy-ask-an-ophthalmologist-quantum-computing-pi.mp3" length="1" type="audio/mpeg"></enclosure>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:46:54</itunes:duration>
+        <itunes:author>Science Friday</itunes:author>
+    </item>	<item>
+        <title>Hr1: News Roundup, Processed Cheese, Cheese Bacteria</title>
+        <link>http://www.sciencefriday.com/podcast/hr1-news-roundup-processed-cheese-cheese-bacteria/</link>
+        <pubDate>Fri, 11 Mar 2016 19:00:00 GMT</pubDate>
+        <dc:creator>Science Friday</dc:creator>
+        <guid isPermaLink="false">http://www.sciencefriday.com/?post_type=podcast&#038;p=31571</guid>
+        <description><![CDATA[We dive into the world of cheese, from the microbes that help make it, to the chemistry that gives processed cheese its properties. Plus, some of the week's science stories.]]></description>
+        <itunes:subtitle><![CDATA[We dive into the world of cheese, from the microbes that help make it, to the chemistry that gives processed cheese its properties. Plus, some of the weeks science stories.]]></itunes:subtitle>
+        <content:encoded><![CDATA[<p>We dive into the world of cheese, from the microbes that help make it, to the chemistry that gives processed cheese its properties. Plus, some of the week&#8217;s science stories.</p>
+]]></content:encoded>
+        <itunes:summary><![CDATA[<p>We dive into the world of cheese, from the microbes that help make it, to the chemistry that gives processed cheese its properties. Plus, some of the week&#8217;s science stories.</p>
+]]></itunes:summary>		<enclosure url="http://www.sciencefriday.com/podcast-download/31571/hr1-news-roundup-processed-cheese-cheese-bacteria.mp3" length="1" type="audio/mpeg"></enclosure>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:47:19</itunes:duration>
+        <itunes:author>Science Friday</itunes:author>
+    </item></channel>
+</rss>

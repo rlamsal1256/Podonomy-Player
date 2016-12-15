@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageButton
+        android:id="@+id/play_list_itm_episodeImageButton"
+        android:layout_width="69dp"
+        android:layout_height="69dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/ic_fingerprint_black_24dp"
+        />
+
+    <LinearLayout
+        android:id="@+id/episode_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/play_list_itm_episodeTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLines="1"
+            android:text="@string/episode_title"
+            android:textAppearance="?android:attr/textAppearanceMedium"/>
+
+        <TextView
+            android:id="@+id/play_list_itm_episodeSubTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLines="1"
+            android:text="@string/episode_sub_title"
+            android:textAppearance="?android:attr/textAppearanceSmall"/>
+
+        <TextView
+            android:id="@+id/play_list_itm_duration"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:text="55:34"
+            android:textAppearance="?android:attr/textAppearanceSmall"/>
+
+
+    </LinearLayout>
+
+    <View
+        android:id="@+id/vertical_line"
+        android:layout_width="1dp"
+        android:layout_height="60dp"
+        android:layout_margin="4dp"
+        android:background="@android:color/darker_gray"/>
+
+    <ImageButton
+        android:id="@+id/play_list_itm_episodePlayButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/ic_play_circle_outline_black_24dp"
+        />
+
+
+</LinearLayout>
+
+

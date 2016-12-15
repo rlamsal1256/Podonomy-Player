@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                xmlns:ads="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools">
+
+    <TabHost xmlns:android="http://schemas.android.com/apk/res/android"
+             android:id="@+id/subscriptions_tabhost"
+             android:layout_below="@id/ad_bar"
+             android:layout_above="@+id/navbar"
+             android:layout_gravity="top|center_horizontal|right"
+             android:layout_width="fill_parent"
+             android:layout_height="fill_parent">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+            <FrameLayout android:id="@android:id/tabcontent"
+                         android:layout_width="fill_parent"
+                         android:layout_height="fill_parent"
+                         android:layout_above="@android:id/tabs"
+                         android:layout_gravity="top">
+                <ListView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/subscriptions_tab_listview">
+                </ListView>
+
+                <ListView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/subscription_search_results_listview">
+                </ListView>
+
+            </FrameLayout>
+
+            <TabWidget android:id="@android:id/tabs"
+                       android:layout_width="match_parent"
+                       android:layout_height="wrap_content"
+                       android:layout_gravity="bottom"
+                       android:layout_alignParentBottom="true"
+                       android:layout_margin="0dp"/>
+
+        </RelativeLayout>
+    </TabHost>
+
+    <include layout="@layout/navigation_bar"
+             android:id="@+id/navbar"
+             android:layout_width="fill_parent"
+             android:layout_height="wrap_content"
+             android:layout_alignParentEnd="false"
+             android:layout_alignParentRight="false"
+             android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>

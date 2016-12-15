@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/llayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:weightSum="1">
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/notificationImageView"/>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:weightSum="1">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="65dp">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="60dp">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="150dp"
+                    android:layout_height="match_parent"
+                    android:weightSum="1">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:text="Episode Title"
+                        android:id="@+id/notification_episode_title"
+                        android:layout_weight="1.1"
+                        android:textSize="25dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Channel.20:03"
+                        android:id="@+id/notification_channel_and_length"
+                        android:textSize="20dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageButton
+                        android:layout_width="40dp"
+                        android:layout_height="fill_parent"
+                        android:id="@+id/notificationPlayPause"
+                        android:src="@drawable/ic_play_arrow_white_24dp" />
+
+                    <ImageButton
+                        android:layout_width="40dp"
+                        android:layout_height="fill_parent"
+                        android:id="@+id/notificationFastForward"
+                        android:src="@drawable/ic_fast_forward_white_24dp" />
+
+                    <ImageButton
+                        android:layout_width="40dp"
+                        android:layout_height="fill_parent"
+                        android:id="@+id/closeNotification"
+                        android:src="@drawable/ic_close_white_24dp" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <ProgressBar
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/progressBar" />
+
+    </LinearLayout>
+
+</LinearLayout>

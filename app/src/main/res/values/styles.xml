@@ -1,0 +1,118 @@
+<resources>
+    <attr name="ic_menu" format="reference"/>
+    <attr name="ic_search" format="reference"/>
+    <attr name="ic_more_vert" format = "reference"/>
+    <attr name="ic_headset" format = "reference"/>
+    <attr name="ic_fingerprint" format = "reference"/>
+    <attr name="ic_skip_previous" format = "reference"/>
+    <attr name="ic_skip_next" format = "reference"/>
+    <attr name="ic_play_arrow" format = "reference"/>
+    <attr name="ic_email" format = "reference"/>
+    <attr name="ic_checkbox_unchecked" format = "reference"/>
+    <attr name="ic_checkbox_checked" format = "reference"/>
+    <attr name="ic_fast_rewind" format = "reference"/>
+    <attr name="ic_fast_forward" format = "reference"/>
+    <attr name="ic_expand_less" format = "reference"/>
+    <attr name="ic_add" format = "reference"/>
+    <attr name="ic_remove" format = "reference"/>
+    <attr name="ic_expand_more" format = "reference"/>
+    <attr name="ic_attach_money" format= "reference" />
+    <attr name="ic_settings"     format= "reference" />
+    <attr name="ic_play_circle"  format= "reference" />
+    <attr name="ic_volume_mute"  format= "reference" />
+    <attr name="ic_local_movies" format= "reference" />
+    <attr name="ic_access_time"  format= "reference" />
+    <attr name="ic_sort"         format= "reference" />
+    <attr name="ic_link"         format= "reference" />
+    <attr name="ic_star_full"    format= "reference" />
+    <attr name="ic_star_empty"   format= "reference" />
+    <attr name="ic_star_half"    format= "reference" />
+    <attr name="ic_download"     format= "reference" />
+    <attr name="ic_favorite"     format= "reference" />
+    <attr name="ic_unfavorite"   format= "reference" />
+    <attr name="ic_flag_content" format= "reference" />
+    <attr name="ic_date_range"   format= "reference" />
+    <attr name="ic_storage"      format= "reference" />
+
+    <!-- Base application theme. -->
+    <style name="Podonomy_Default" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="ic_menu">@drawable/ic_menu_black_24dp</item>
+        <item name="ic_search">@drawable/ic_search_black_24dp</item>
+        <item name="ic_more_vert">@drawable/ic_more_vert_black_24dp</item>
+        <item name="ic_headset">@drawable/ic_headset_black_24dp</item>
+        <item name="ic_fingerprint">@drawable/ic_fingerprint_black_24dp</item>
+        <item name="ic_skip_previous">@drawable/ic_skip_previous_black_24dp</item>
+        <item name="ic_skip_next">@drawable/ic_skip_next_black_24dp</item>
+        <item name="ic_play_arrow">@drawable/ic_play_arrow_black_24dp</item>
+        <item name="ic_email">@drawable/ic_email_black_24dp</item>
+        <item name="ic_checkbox_unchecked">@drawable/ic_check_box_outline_blank_black_24dp</item>
+        <item name="ic_checkbox_checked">@drawable/ic_check_box_black_24dp</item>
+        <item name="ic_fast_rewind">@drawable/ic_fast_rewind_black_24dp</item>
+        <item name="ic_fast_forward">@drawable/ic_fast_forward_black_24dp</item>
+        <item name="ic_expand_less">@drawable/ic_expand_less_black_24dp</item>
+        <item name="ic_add">@drawable/ic_add_black_24dp</item>
+        <item name="ic_remove">@drawable/ic_remove_black_24dp</item>
+        <item name="ic_expand_more">@drawable/ic_expand_more_black_24dp</item>
+        <item name="ic_attach_money">@drawable/ic_attach_money_black_24dp</item>
+        <item name="ic_settings">@drawable/ic_settings_black_24dp</item>
+        <item name="ic_play_circle">@drawable/ic_play_circle_outline_black_24dp</item>
+        <item name="ic_volume_mute">@drawable/ic_volume_mute_black_24dp</item>
+        <item name="ic_local_movies">@drawable/ic_local_movies_black_24dp</item>
+        <item name="ic_access_time">@drawable/ic_access_time_black_24dp</item>
+        <item name="ic_sort">@drawable/ic_sort_black_24dp</item>
+        <item name="ic_link">@drawable/ic_link_black_24dp</item>
+        <item name="ic_star_full">@drawable/ic_star_black_24dp</item>
+        <item name="ic_star_empty">@drawable/ic_star_border_black_24dp</item>
+        <item name="ic_star_half">@drawable/ic_star_half_black_24dp</item>
+        <item name="ic_download">@drawable/ic_file_download_black_24dp</item>
+        <item name="ic_favorite">@drawable/ic_favorite_black_24dp</item>
+        <item name="ic_unfavorite">@drawable/ic_favorite_border_black_24dp</item>
+        <item name="ic_flag_content">@drawable/ic_warning_black_24dp</item>
+        <item name="ic_date_range">@drawable/ic_date_range_black_24dp</item>
+        <item name="ic_storage">@drawable/ic_sd_storage_black_24dp</item>
+
+    </style>
+
+    <style name="Podonomy_Dark" parent="Theme.AppCompat.NoActionBar">
+        <item name="ic_menu">@drawable/ic_menu_white_24dp</item>
+        <item name="ic_search">@drawable/ic_search_white_24dp</item>
+        <item name="ic_more_vert">@drawable/ic_more_vert_white_24dp</item>
+        <item name="ic_headset">@drawable/ic_headset_white_24dp</item>
+        <item name="ic_fingerprint">@drawable/ic_fingerprint_white_24dp</item>
+        <item name="ic_skip_previous">@drawable/ic_skip_previous_white_24dp</item>
+        <item name="ic_skip_next">@drawable/ic_skip_next_white_24dp</item>
+        <item name="ic_play_arrow">@drawable/ic_play_arrow_white_24dp</item>
+        <item name="ic_email">@drawable/ic_email_white_24dp</item>
+        <item name="ic_checkbox_unchecked">@drawable/ic_check_box_outline_blank_white_24dp</item>
+        <item name="ic_checkbox_checked">@drawable/ic_check_box_white_24dp</item>
+        <item name="ic_fast_rewind">@drawable/ic_fast_rewind_white_24dp</item>
+        <item name="ic_fast_forward">@drawable/ic_fast_forward_white_24dp</item>
+        <item name="ic_expand_less">@drawable/ic_expand_less_white_24dp</item>
+        <item name="ic_add">@drawable/ic_add_white_24dp</item>
+        <item name="ic_remove">@drawable/ic_remove_white_24dp</item>
+        <item name="ic_expand_more">@drawable/ic_expand_more_white_24dp</item>
+        <item name="ic_attach_money">@drawable/ic_attach_money_white_24dp</item>
+        <item name="ic_settings">@drawable/ic_settings_white_24dp</item>
+        <item name="ic_play_circle">@drawable/ic_play_circle_outline_white_24dp</item>
+        <item name="ic_volume_mute">@drawable/ic_volume_mute_white_24dp</item>
+        <item name="ic_local_movies">@drawable/ic_local_movies_white_24dp</item>
+        <item name="ic_access_time">@drawable/ic_access_time_white_24dp</item>
+        <item name="ic_sort">@drawable/ic_sort_white_24dp</item>
+        <item name="ic_link">@drawable/ic_link_white_24dp</item>
+        <item name="ic_star_full">@drawable/ic_star_white_24dp</item>
+        <item name="ic_star_empty">@drawable/ic_star_border_white_24dp</item>
+        <item name="ic_star_half">@drawable/ic_star_half_white_24dp</item>
+        <item name="ic_download">@drawable/ic_file_download_white_24dp</item>
+        <item name="ic_favorite">@drawable/ic_favorite_white_24dp</item>
+        <item name="ic_unfavorite">@drawable/ic_favorite_border_white_24dp</item>
+        <item name="ic_flag_content">@drawable/ic_warning_white_24dp</item>
+        <item name="ic_date_range">@drawable/ic_date_range_white_24dp</item>
+        <item name="ic_storage">@drawable/ic_sd_storage_white_24dp</item>
+    </style>
+
+
+</resources>

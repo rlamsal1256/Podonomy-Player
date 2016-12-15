@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="navbar_search_button" type="id" />
+    <item name="subscriptions_subscriptions_tag" type="id" />
+    <item name="subscriptions_search_results_tab" type="id" />
+    <item name="running_downlaods_tag" type="id" />
+    <item name="completed_downloads_tag" type="id" />
+</resources>

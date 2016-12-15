@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+    <include layout="@layout/ad_bar"
+        android:id="@+id/ad_bar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+
+
+    <include layout="@layout/navigation_bar"
+        android:id="@+id/navbar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="false"
+        android:layout_alignParentRight="false"
+        android:layout_alignParentBottom="true"/>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ad_bar"
+        android:id="@+id/channel_details_headerLayout"
+        >
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <ImageButton
+                android:layout_width="87dp"
+                android:layout_height="87dp"
+                android:id="@+id/channel_details_channelImage"
+                android:nestedScrollingEnabled="true"
+                android:src="@drawable/ic_fingerprint_black_24dp"/>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/channel_header">
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:text="Medium Text"
+                        android:id="@+id/channel_details_channelName"
+                        android:layout_weight="2"
+                        android:maxLines="1" />
+
+                    <com.podonomy.podonomyplayer.ui.SubscribeCheckbox
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/channel_details_subscribeCheckbox" />
+                </LinearLayout>
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/channel_details_contentType"
+                        android:src="?ic_volume_mute"/>
+
+                </LinearLayout>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceSmall"
+                    android:text="This is the description of the podcast which can be very very long and should be cut so that it does not overflow onto the other UI components which are next to it and have the right to exists without being affected by this bully textview."
+                    android:id="@+id/channel_details_channelShortDescription"
+                    android:maxLines="2"
+                    android:layout_gravity="bottom"/>
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="This is the description of the podcast which can be very very long and should be cut so that it does not overflow onto the other UI components which are next to it and have the right to exists without being affected by this bully textview."
+            android:id="@+id/channel_details_channelLongDescription"
+            android:layout_gravity="bottom"
+            android:maxLines="10"
+            android:visibility="gone"
+            android:scrollbars="vertical"/>
+
+        <RelativeLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent">
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/channel_details_giveTipButton"
+                android:src="?ic_attach_money"
+                android:layout_alignParentLeft="true" />
+
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/channel_details_sortButton"
+                android:src="?ic_sort"
+                android:layout_alignParentRight="true" />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/channel_details_gotoWebSiteButton"
+                android:src="?ic_link"
+                android:layout_centerInParent="true" />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/channel_details_inviteButton"
+                android:src="?ic_email"
+                android:layout_toLeftOf="@+id/channel_details_gotoWebSiteButton" />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/channel_details_settingsButton"
+                android:src="?ic_settings"
+                android:layout_toRightOf="@+id/channel_details_gotoWebSiteButton" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:id="@+id/channel_details_horizSeparator"
+            android:background="#010000"/>
+    </LinearLayout>
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/channel_details_episodeListView"
+        android:layout_above="@id/navbar"
+        android:layout_below="@+id/channel_details_headerLayout"/>
+
+
+</RelativeLayout>

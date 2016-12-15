@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+>
+    <!-- RSS feed defaults -->
+    <channel>
+        <title>KPFA - Guns and Butter</title>
+
+        <link>https://kpfa.org/program/guns-and-butter/</link>
+
+        <language>en-us</language>
+        <copyright>2016 KPFA</copyright>
+
+        <atom:link href="https://kpfa.org/program/guns-and-butter/feed/" rel="self" type="application/rss+xml" />
+
+        <itunes:author>Guns and Butter</itunes:author>
+        <itunes:summary>A program that investigates the relationships among capitalism, militarism and politics. Maintaining a radical perspective in the aftermath of the September 11th attacks, &#8220;Guns &#038; Butter: The Economics of Politics&#8221; reports on who wins and who loses when the economic resources of civil society are diverted toward global corporatization, war, and the furtherance of a national security state. Produced and hosted by Bonnie Faulkner.
+
+            Visit Guns and Butter online at: http://www.gunsandbutter.org
+            Follow Guns and Butter on Twitter at: https://twitter.com/gandbradio
+            Listen to Guns and Butter on Sound Cloud at: https://soundcloud.com/guns-and-butter-1</itunes:summary>
+        <description>A program that investigates the relationships among capitalism, militarism and politics. Maintaining a radical perspective in the aftermath of the September 11th attacks, &#8220;Guns &#038; Butter: The Economics of Politics&#8221; reports on who wins and who loses when the economic resources of civil society are diverted toward global corporatization, war, and the furtherance of a national security state. Produced and hosted by Bonnie Faulkner.
+
+            Visit Guns and Butter online at: http://www.gunsandbutter.org
+            Follow Guns and Butter on Twitter at: https://twitter.com/gandbradio
+            Listen to Guns and Butter on Sound Cloud at: https://soundcloud.com/guns-and-butter-1</description>
+
+        <itunes:owner>
+            <itunes:name>KPFA.org - KPFA 94.1 Berkeley, CA</itunes:name>
+            <itunes:email>web@kpfa.org</itunes:email>
+        </itunes:owner>
+
+        <lastBuildDate>Thu, 14 Apr 2016 15:00:00 +0000</lastBuildDate>
+
+        <itunes:category text="News &amp; Politics" />
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:image href="https://kpfa.org/wp-content/themes/kpfa-v2/dist/images/itunesbanner.jpg" />
+
+
+        <!-- Start loop -->
+        <item>
+            <title>Guns and Butter - April 13, 2016</title>
+            <itunes:author>Guns and Butter</itunes:author>
+            <itunes:summary><![CDATA[A program that investigates the relationships among capitalism, militarism and politics, hosted by Bonnie Faulkner.
+
+]]></itunes:summary>
+            <itunes:image href="https://kpfa.org/wp-content/themes/kpfa-v2/library/images/itunesbanner.jpg" />
+            <enclosure url="http://archives.kpfa.org/data/20160413-Wed1300.mp3" length="223" type="audio/mpeg" />
+
+            <guid>https://kpfa.org/?post_type=episode&#038;p=228486</guid>
+            <pubDate>Wed, 13 Apr 2016 20:00:00 +0000</pubDate>
+
+            <itunes:duration>
+                0:00			</itunes:duration>
+
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+
+        <item>
+            <title>Guns and Butter &#8211; April 6, 2016</title>
+            <itunes:author>Guns and Butter</itunes:author>
+            <itunes:summary><![CDATA[The Slow Crash  with Michael Hudson
+We discuss in detail, the concept of debt deflation; housing, student loan and automobile debt; the oil market; the stock market; negative interest rates; currencies; and the shrinking of the real economy.
+
+Links and Resources:
+
+Visit Guns and Butter online
+Follow Guns and Butter on Twitter
+Listen to Guns and Butter on Sound Cloud
+Subscribe to our free newsletter [1] for the show announcements and other information.
+
+[1] http://eepurl.com/bmg4zf]]></itunes:summary>
+            <itunes:image href="https://kpfa.org/wp-content/themes/kpfa-v2/library/images/itunesbanner.jpg" />
+            <enclosure url="http://archives.kpfa.org/data/20160406-Wed1300.mp3" length="223" type="audio/mpeg" />
+
+            <guid>https://kpfa.org/?post_type=episode&#038;p=228031</guid>
+            <pubDate>Wed, 06 Apr 2016 20:00:00 +0000</pubDate>
+
+            <itunes:duration>
+                0:00			</itunes:duration>
+
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+
+        <item>
+            <title>Guns and Butter &#8211; March 30, 2016</title>
+            <itunes:author>Guns and Butter</itunes:author>
+            <itunes:summary><![CDATA[Understanding Our Solar History with David Talbott
+Founder and Director of the Thunderbolts Project, David Talbott, expounds on his early research into ancient myths and symbols, and his study of ancient stone carvings; his collaboration with Australian physicist, Wallace Thornhill, which led to the discovery that core images depicted in ancient stone carvings matched those of electrical discharge in plasma; the validation of this theory by world-renowned Los Alamos plasma physicist, Anthony Peratt; the nature of plasma; the electrical nature of the sun; the Safire Project; comet 67P; the electrical nature of comets.
+
+
+Links and Resources:
+
+Visit Guns and Butter online
+Follow Guns and Butter on Twitter
+Listen to Guns and Butter on Sound Cloud
+Subscribe to our free newsletter [1] for the show announcements and other information.
+
+[1] http://eepurl.com/bmg4zf]]></itunes:summary>
+            <itunes:image href="https://kpfa.org/wp-content/themes/kpfa-v2/library/images/itunesbanner.jpg" />
+            <enclosure url="http://archives.kpfa.org/data/20160330-Wed1300.mp3" length="223" type="audio/mpeg" />
+
+            <guid>https://kpfa.org/?post_type=episode&#038;p=227537</guid>
+            <pubDate>Wed, 30 Mar 2016 20:00:00 +0000</pubDate>
+
+            <itunes:duration>
+                0:00			</itunes:duration>
+
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+
+        <item>
+            <title>Guns and Butter &#8211; March 23, 2016</title>
+            <itunes:author>Guns and Butter</itunes:author>
+            <itunes:summary><![CDATA[A program that investigates the relationships among capitalism, militarism and politics, hosted by Bonnie Faulkner.
+
+]]></itunes:summary>
+            <itunes:image href="https://kpfa.org/wp-content/themes/kpfa-v2/library/images/itunesbanner.jpg" />
+            <enclosure url="http://archives.kpfa.org/data/20160323-Wed1300.mp3" length="223" type="audio/mpeg" />
+
+            <guid>https://kpfa.org/?post_type=episode&#038;p=226917</guid>
+            <pubDate>Wed, 23 Mar 2016 20:00:00 +0000</pubDate>
+
+            <itunes:duration>
+                0:00			</itunes:duration>
+
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+
+        <item>
+            <title>Guns and Butter &#8211; March 16, 2016</title>
+            <itunes:author>Guns and Butter</itunes:author>
+            <itunes:summary><![CDATA[State Terrorism: Franco American Style with Michel Chossudovsky
+
+Michel Chossudovsky's most recent research on the alleged ISIS terror in Paris, as well as the Radisson Hotel terror in Bamako, Mali, is discussed. Analysis of current state sponsored terror in general, within a larger global geopolitical and economic framework, is addressed. Topics include the fundamental contradiction in the official narrative of the War on Terror versus the Islamic State or ISIS; Islamic State a creation of U.S. intelligence; the geopolitical agenda; the militarization of Africa; the Berlin Conference in the late 19th century; foreknowledge of the Paris terror; French military escalation against Syria planned before the attacks; replication of the 9/11 discourse as a pretext to justify a new wave of bombing against Syria; attack by a foreign power justifies a state of war; the Doctrine of Collective Security, Article 5 of NATO; the Muslim community subjected to a witch hunt; the criminalization of the state and the financial system; the end of the French Republic.
+
+Links and Resources:
+
+Visit Guns and Butter online
+Follow Guns and Butter on Twitter
+Listen to Guns and Butter on Sound Cloud
+Subscribe to our free newsletter [1] for the show announcements and other information.
+
+[1] http://eepurl.com/bmg4zf]]></itunes:summary>
+            <itunes:image href="https://kpfa.org/wp-content/themes/kpfa-v2/library/images/itunesbanner.jpg" />
+            <enclosure url="http://archives.kpfa.org/data/20160316-Wed1300.mp3" length="223" type="audio/mpeg" />
+
+            <guid>https://kpfa.org/?post_type=episode&#038;p=226482</guid>
+            <pubDate>Wed, 16 Mar 2016 20:00:00 +0000</pubDate>
+
+            <itunes:duration>
+                0:00			</itunes:duration>
+
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+
+        <item>
+            <title>Guns and Butter &#8211; March 9, 2016</title>
+            <itunes:author>Guns and Butter</itunes:author>
+            <itunes:summary><![CDATA[Architects of Terror with  Christopher Bollyn
+
+
+&#160;
+Links and Resources
+
+Visit Guns and Butter online [1]
+Follow Guns and Butter on Twitter
+Listen to Guns and Butter on Sound Cloud
+Subscribe to our free newsletter [2] for the show announcements and other information.
+
+[1] http://gunsandbutter.org/
+[2] http://eepurl.com/bmg4zf]]></itunes:summary>
+            <itunes:image href="https://kpfa.org/wp-content/themes/kpfa-v2/library/images/itunesbanner.jpg" />
+            <enclosure url="http://archives.kpfa.org/data/20160309-Wed1300.mp3" length="223" type="audio/mpeg" />
+
+            <guid>https://kpfa.org/?post_type=episode&#038;p=226152</guid>
+            <pubDate>Wed, 09 Mar 2016 21:00:00 +0000</pubDate>
+
+            <itunes:duration>
+                0:00			</itunes:duration>
+
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+
+        <item>
+            <title>Guns and Butter &#8211; March 2, 2016</title>
+            <itunes:author>Guns and Butter</itunes:author>
+            <itunes:summary><![CDATA[A program that investigates the relationships among capitalism, militarism and politics, hosted by Bonnie Faulkner.
+
+]]></itunes:summary>
+            <itunes:image href="https://kpfa.org/wp-content/themes/kpfa-v2/library/images/itunesbanner.jpg" />
+            <enclosure url="http://archives.kpfa.org/data/20160302-Wed1300.mp3" length="223" type="audio/mpeg" />
+
+            <guid>https://kpfa.org/?post_type=episode&#038;p=225643</guid>
+            <pubDate>Wed, 02 Mar 2016 21:00:00 +0000</pubDate>
+
+            <itunes:duration>
+                0:00			</itunes:duration>
+
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+
+        <item>
+            <title>Guns and Butter &#8211; Fund Drive Special &#8211; February 24, 2016</title>
+            <itunes:author>Guns and Butter</itunes:author>
+            <itunes:summary><![CDATA[ [1]Highlights the books "ANOTHER French False Flag: Bloody Tracks from Paris to San Bernardino," and "We Are NOT Charlie Hebdo: Free Thinkers Question the French 9/11" by Dr. Kevin Barrett
+
+Hosted by Bonnie Faulkner.
+
+[1] https://kpfa.org/wp-content/uploads/2016/02/Another_French_Flag-1.png]]></itunes:summary>
+            <itunes:image href="https://kpfa.org/wp-content/themes/kpfa-v2/library/images/itunesbanner.jpg" />
+            <enclosure url="http://archives.kpfa.org/data/20160224-Wed1300.mp3" length="223" type="audio/mpeg" />
+
+            <guid>https://kpfa.org/?post_type=episode&#038;p=225178</guid>
+            <pubDate>Wed, 24 Feb 2016 21:00:00 +0000</pubDate>
+
+            <itunes:duration>
+                0:00			</itunes:duration>
+
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+
+        <item>
+            <title>Guns and Butter &#8211; Fund Drive Special</title>
+            <itunes:author>Guns and Butter</itunes:author>
+            <itunes:summary><![CDATA[ [1]Highlights the books "Another French False Flag: Bloody Tracks from Paris to San Bernardino" and  "We Are NOT Charlie Hebdo: Free Thinkers Question the French 9/11" by Dr. Kevin Barrett
+ Hosted by Bonnie Faulkner.
+
+[1] https://kpfa.org/wp-content/uploads/2016/02/Another_French_Flag.png]]></itunes:summary>
+            <itunes:image href="https://kpfa.org/wp-content/themes/kpfa-v2/library/images/itunesbanner.jpg" />
+            <enclosure url="http://archives.kpfa.org/data/20160217-Wed1300.mp3" length="223" type="audio/mpeg" />
+
+            <guid>https://kpfa.org/?post_type=episode&#038;p=224726</guid>
+            <pubDate>Wed, 17 Feb 2016 21:00:00 +0000</pubDate>
+
+            <itunes:duration>
+                0:00			</itunes:duration>
+
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+
+        <item>
+            <title>Guns and Butter &#8211; February 10, 2016</title>
+            <itunes:author>Guns and Butter</itunes:author>
+            <itunes:summary><![CDATA[We're All In the Nuclear Hotseat with Libbe HaLevy
+
+
+Author of, Yes, I Glow in the Dark! One Mile from Three Mile Island to Fukushima and Beyond, Libbe HaLevy was exposed to radiation at the Three Mile Island nuclear disaster. We discuss the ongoing natural gas and radioactive radon mega-leak in Aliso Canyon in the San Fernando Valley of Los Angeles, its impact on the residential area of Porter Ranch; the unfolding nuclear disaster at the reactors in Fukushima, Japan; the catastrophic wildlife die-off in the Pacific Ocean; regulatory and health agencies; the nuclear industry; the embrittlement of aging reactors; nuclear waste; the Bridgeton Landfill Fire; the Westlake Landfill contamination; and Three Mile Island.
+Links and Resources
+
+Visit Guns and Butter online [1]
+Follow Guns and Butter on Twitter
+Listen to Guns and Butter on Sound Cloud
+Subscribe to our free newsletter [2] for the show announcements and other information.
+
+[1] http://gunsandbutter.org/
+[2] http://eepurl.com/bmg4zf]]></itunes:summary>
+            <itunes:image href="https://kpfa.org/wp-content/themes/kpfa-v2/library/images/itunesbanner.jpg" />
+            <enclosure url="http://archives.kpfa.org/data/20160210-Wed1300.mp3" length="10772480" type="audio/mpeg" />
+
+            <guid>https://kpfa.org/?post_type=episode&#038;p=224246</guid>
+            <pubDate>Wed, 10 Feb 2016 21:00:00 +0000</pubDate>
+
+            <itunes:duration>
+                59:50			</itunes:duration>
+
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+
+        <item>
+            <title>Guns and Butter &#8211; February 3, 2016</title>
+            <itunes:author>Guns and Butter</itunes:author>
+            <itunes:summary><![CDATA[The New Global Financial Cold War with Michael Hudson
+
+
+Dr. Hudson discusses his paper, The IMF Changes Its Rules To Isolate China and Russia; implications of the four policy changes at the International Monetary Fund in its role as enforcer of inter-government debts; the Shanghai Cooperation Organization (SCO) as an alternative military alliance to NATO; the Asian Infrastructure Investment Bank (AIIB) threatens to replace the IMF and World Bank; the Trans Pacific Partnership Treaty; the China International Payments System (CIPS); WTO investment treaties; Ukraine and Greece; different philosophies of development between east and west; break up of the post WWII dollarized global financial system; the world dividing into two camps.
+Links and Resources
+
+Visit Guns and Butter online
+Follow Guns and Butter on Twitter
+Listen to Guns and Butter on Sound Cloud
+Subscribe to our free newsletter [1] for the show announcements and other information.
+
+[1] http://eepurl.com/bmg4zf]]></itunes:summary>
+            <itunes:image href="https://kpfa.org/wp-content/themes/kpfa-v2/library/images/itunesbanner.jpg" />
+            <enclosure url="http://archives.kpfa.org/data/20160203-Wed1300.mp3" length="10776576" type="audio/mpeg" />
+
+            <guid>https://kpfa.org/?post_type=episode&#038;p=223754</guid>
+            <pubDate>Wed, 03 Feb 2016 21:00:00 +0000</pubDate>
+
+            <itunes:duration>
+                59:52			</itunes:duration>
+
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+
+        <item>
+            <title>Guns and Butter &#8211; January 27, 2016</title>
+            <itunes:author>Guns and Butter</itunes:author>
+            <itunes:summary><![CDATA[Biowarfare and the Emergence of Police State America with Francis Boyle
+
+
+Interview with author and professor of international law, Dr. Francis Boyle. The history of biological warfare development and the Biological Weapons Convention; forced anthrax inoculations of the military; anthrax attacks on congress and the resultant Patriot legislation setting up a police state; FBI agent Marion "Spike" Bowman's thwarting of FBI investigations into both Zacarias Moussaoui and the anthrax attacks on congress.
+
+Originally aired: 3/28/2007
+
+Links and Resources:
+
+
+Visit Guns and Butter online
+Follow Guns and Butter on Twitter
+Listen to Guns and Butter on Sound Cloud
+Subscribe to our free newsletter [1] for the show announcements and other information.
+
+[1] http://eepurl.com/bmg4zf]]></itunes:summary>
+            <itunes:image href="https://kpfa.org/wp-content/themes/kpfa-v2/library/images/itunesbanner.jpg" />
+            <enclosure url="http://archives.kpfa.org/data/20160127-Wed1300.mp3" length="10772480" type="audio/mpeg" />
+
+            <guid>https://kpfa.org/?post_type=episode&#038;p=223362</guid>
+            <pubDate>Wed, 27 Jan 2016 21:00:00 +0000</pubDate>
+
+            <itunes:duration>
+                59:50			</itunes:duration>
+
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+
+        <item>
+            <title>Guns and Butter &#8211; January 20, 2016</title>
+            <itunes:author>Guns and Butter</itunes:author>
+            <itunes:summary><![CDATA[Understanding False Flag Operations In Our Time with Richard Dolan
+
+
+False flag operations analyzed as a distinctively modern phenomena, post WWI; the planet being stolen by a transnational corporate financial class; ideological false flags including religions and nationalism; the propaganda spectrum including cultural values, educational system and news media; a war of corporate cultural control and imposition of a global police state; US Psychological Operations Manual; white, grey and black PSYOPs; regime change and color revolutions; NGOs; characteristics of a false flag.
+
+Links and Resources:
+Blog for this show on Guns and Butter [1]
+
+
+Visit Guns and Butter online
+Follow Guns and Butter on Twitter
+Listen to Guns and Butter on Sound Cloud
+Subscribe to our free newsletter [2] for the show announcements and other information.
+
+[1] http://gunsandbutter.org/blog/2016/01/20/understanding-false-flag-operations-in-our-time
+[2] http://eepurl.com/bmg4zf]]></itunes:summary>
+            <itunes:image href="https://kpfa.org/wp-content/themes/kpfa-v2/library/images/itunesbanner.jpg" />
+            <enclosure url="http://archives.kpfa.org/data/20160120-Wed1300.mp3" length="10772480" type="audio/mpeg" />
+
+            <guid>https://kpfa.org/?post_type=episode&#038;p=222826</guid>
+            <pubDate>Wed, 20 Jan 2016 21:00:00 +0000</pubDate>
+
+            <itunes:duration>
+                59:50			</itunes:duration>
+
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+
+        <item>
+            <title>Guns and Butter &#8211; January 13, 2016</title>
+            <itunes:author>Guns and Butter</itunes:author>
+            <itunes:summary><![CDATA[A program that investigates the relationships among capitalism, militarism and politics, hosted by Bonnie Faulkner.
+
+]]></itunes:summary>
+            <itunes:image href="https://kpfa.org/wp-content/themes/kpfa-v2/library/images/itunesbanner.jpg" />
+            <enclosure url="http://archives.kpfa.org/data/20160113-Wed1300.mp3" length="10776576" type="audio/mpeg" />
+
+            <guid>https://kpfa.org/?post_type=episode&#038;p=222354</guid>
+            <pubDate>Wed, 13 Jan 2016 21:00:00 +0000</pubDate>
+
+            <itunes:duration>
+                59:52			</itunes:duration>
+
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+
+        <item>
+            <title>Guns and Butter &#8211; January 6, 2016</title>
+            <itunes:author>Guns and Butter</itunes:author>
+            <itunes:summary><![CDATA[Oil and 9/11: Crossroads of Corruption and Criminality with James Corbett
+
+James Corbett's two documentaries are discussed, beginning with How Big Oil Conquered the World; the rise of the oiligarchy; the Yom Kippur War and subsequent 1973 oil shock; petro dollars and the monetary system; the creation of modern education, medicine, the green and gene revolution; control of the food supply, and the interrelationship of the global petrochemical industry with all of the above. 9/11 Trillions: Follow the Money is analyzed as a crime and follows the money through the Silverstein heist, the secret heist of Marsh &#38; McLennan, et al., put and call option insider trading on many corporations; and the Pentagon's missing trillions.
+
+Links and Resources:
+
+Visit Guns and Butter online
+Follow Guns and Butter on Twitter
+Listen to Guns and Butter on Sound Clou
+Subscribe to our free newsletter [1] for the show announcements and other information.
+
+[1] http://eepurl.com/bmg4zf]]></itunes:summary>
+            <itunes:image href="https://kpfa.org/wp-content/themes/kpfa-v2/library/images/itunesbanner.jpg" />
+            <enclosure url="http://archives.kpfa.org/data/20160106-Wed1300.mp3" length="10772480" type="audio/mpeg" />
+
+            <guid>https://kpfa.org/?post_type=episode&#038;p=221886</guid>
+            <pubDate>Wed, 06 Jan 2016 21:00:00 +0000</pubDate>
+
+            <itunes:duration>
+                59:50			</itunes:duration>
+
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:block>no</itunes:block>
+        </item>
+
+    </channel>
+</rss>
+

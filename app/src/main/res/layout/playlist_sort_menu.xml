@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?><!-- The nave menu is a dialog that popups at the bottom left when pressing the nav
+         button in the navbar.  This nav menu shows the list of activity the user can navigate
+         to. -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_centerInParent="true">
+
+        <ListView
+            android:id="@+id/sm_chosen_items"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="false"
+            android:layout_alignParentTop="true"
+            android:visibility="visible" />
+
+
+        <View
+            android:id="@+id/simple_line1"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_below="@+id/sm_chosen_items"
+            android:background="@android:color/darker_gray" />
+
+
+        <ListView
+            android:id="@+id/sm_other_items"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/simple_line1"
+            android:visibility="visible" />
+
+        <View
+            android:id="@+id/simple_line2"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_below="@id/sm_other_items"
+            android:background="@android:color/darker_gray" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="false"
+            android:layout_alignParentLeft="false"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentStart="false"
+            android:layout_below="@id/simple_line2"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/playlist_sort_menu_cancel_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sort_menu_cancel" />
+
+            <Button
+                android:id="@+id/playlist_sort_menu_ok_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sort_menu_ok" />
+
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

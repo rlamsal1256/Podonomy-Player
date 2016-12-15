@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/cancel_download"
+        android:title="@string/cancel_download"/>
+
+    <item
+        android:id="@+id/pause_download"
+        android:title="@string/pause_download"/>
+
+    <item
+        android:id="@+id/resume_download"
+        android:title="@string/resume_download"/>
+
+    <item
+        android:id="@+id/force_download"
+        android:title="@string/force_download"/>
+
+    <item
+        android:id="@+id/settings_action"
+        android:title="@string/settings_action"/>
+
+
+</menu>

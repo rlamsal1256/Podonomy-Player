@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:ads="http://schemas.android.com/apk/res-auto"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+    <include
+        android:id="@+id/ad_bar"
+        layout="@layout/ad_bar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/ad_bar">
+
+
+        <com.nhaarman.listviewanimations.itemmanipulation.DynamicListView
+            android:id="@+id/running_downloads_drag_list_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/downloads_you_have_no_downloads"/>
+
+
+    </RelativeLayout>
+
+
+    <include
+        android:id="@+id/navbar"
+        layout="@layout/navigation_bar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="false"
+        android:layout_alignParentRight="false"/>
+
+</RelativeLayout>

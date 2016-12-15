@@ -1,0 +1,39 @@
+EventBus
+=========
+- We currently use EventBus from greenbot, but I think that we will have to write our own  at a later point.
+  EventBus has some drawback.
+    1- it does not preserver the priority across threads.  For instance, I setup the EventLogger's priority
+       to be very high so it would get invoked first before anyone else.  this way the event woudl be record
+       for sure in the logs prior to the event being received by other threads.  EventBus does not preserver
+       priority across threads, just within thread resulting in the EventLogger being called after the event
+       began its processing.
+    2- A real message bus allows for the receiver to know who sent the message and then send the response back
+       to it.  EventBus doesn't support that.  An event is posted and the subscribers to that event receive
+       the event but the subscribers have no way to "reply" to the poster.  The EventBus acts as a broadcast
+       network.
+- I think Android needs something closer to a real message bus like java JMS but running locally.  No need to
+  run over a separate process and communicate to a url/port, but having more of the JMS features would be nice.
+  For instance:
+    - publish / subscribe mechanism
+    - brodcast messaging.
+    - persistent message (with being able to specify TTL)
+    - 1 to 1 communication
+    - ability to specify channels and publish/subscribe to a channel.
+
+
+Todo:
+======
+- When a user unsubscribed from a channel, a popup (yes/no) asking him to confirm should appear so the user can
+  confirm whether he really wishes to unsubscribed from this channel or not.
+- Subscription Activity:
+    - The search results don't seem to be saved properly.  after a search, I go home and the launch the app
+      again and the results tab is empty.  It should show the last search results.
+- Channel Details:
+    - The episode description in the listview should be a webview and not a textview as currently.
+      Channels with an html description don't show up nicely.
+    - After clicking the down arrow to download an episode, the arrow should become grayed out.  The play
+      button should also be grayed out until the episode is downloaded.
+    - The context menu is empty.  it shouldn't be.
+    - Upon arriving on the channel details page and when the list of episodes is being fetched from the internet,
+      a waiting circle should appear.
+- We need a Download Queue activity showing the episodes being downloaded and their status.  I will wireframe.
