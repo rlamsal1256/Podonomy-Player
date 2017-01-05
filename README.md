@@ -2,7 +2,7 @@
 
 # Overview
 
-This podcast application will allow you to search,, subscribe, download, and play podcasts on your phone. 
+This podcast application allows you to search,, subscribe, download, and play podcasts on your phone. 
 
 # Screenshots:
 
